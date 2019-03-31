@@ -7,7 +7,7 @@
             "DoB": "26/11/1990",
             "Position": "Manager",
             "Country": "Norway",
-            "Picture": ,
+            "Picture": "",
             "Injured": false,
             "Suspended": false,
             "Category": "A"
@@ -18,7 +18,7 @@
             "DoB": "07/11/1990",
             "Position": "GK",
             "Country": "Spain",
-            "Picture": ,
+            "Picture": "",
             "Injured": false,
             "Suspended": false,
             "Category": "A"
@@ -30,7 +30,7 @@
             "DoB": "27/01/1983",
             "Position": "GK",
             "Country": "England",
-            "Picture": ,
+            "Picture": "",
             "Injured": false,
             "Suspended": false,
             "Category": "C"
@@ -42,7 +42,7 @@
             "DoB": "22/01/1987",
             "Position": "GK",
             "Country": "Argentina",
-            "Picture": ,
+            "Picture": "",
             "Injured": false,
             "Suspended": false,
             "Category": "B"
@@ -54,7 +54,7 @@
             "DoB": "28/06/1996",
             "Position": "GK",
             "Country": "Portugal",
-            "Picture": ,
+            "Picture": "",
             "Injured": false,
             "Suspended": false,
             "Category": "C"
@@ -66,7 +66,7 @@
             "DoB": "17/07/1994",
             "Position": "DF",
             "Country": "Sweden",
-            "Picture": ,
+            "Picture": "",
             "Injured": false,
             "Suspended": false,
             "Category": "A"
@@ -78,7 +78,7 @@
             "DoB": "08/06/1994",
             "Position": "DF",
             "Country": "Ivory Coast",
-            "Picture": ,
+            "Picture": "",
             "Injured": false,
             "Suspended": false,
             "Category": "B"
@@ -90,7 +90,7 @@
             "DoB": "21/02/1992",
             "Position": "DF",
             "Country": "England",
-            "Picture": ,
+            "Picture": "",
             "Injured": false,
             "Suspended": false,
             "Category": "A"
@@ -102,7 +102,7 @@
             "DoB": "22/11/1989",
             "Position": "DF",
             "Country": "England",
-            "Picture": ,
+            "Picture": "",
             "Injured": false,
             "Suspended": false,
             "Category": "A"
@@ -114,7 +114,7 @@
             "DoB": "20/03/1990",
             "Position": "DF",
             "Country": "Argentina",
-            "Picture": ,
+            "Picture": "",
             "Injured": false,
             "Suspended": false,
             "Category": "B"
@@ -126,19 +126,7 @@
             "DoB": "09/07/1985",
             "Position": "DF",
             "Country": "England",
-            "Picture": ,
-            "Injured": false,
-            "Suspended": false,
-            "Category": "A"
-        },
-        {
-            "First name": "David",
-            "Surname": "De Gea",
-            "Squad number": 1,
-            "DoB": "07/11/1990",
-            "Position": "GK",
-            "Country": "Spain",
-            "Picture": ,
+            "Picture": "",
             "Injured": false,
             "Suspended": false,
             "Category": "A"
@@ -150,7 +138,7 @@
             "DoB": "19/03/1999",
             "Position": "DF",
             "Country": "Portugal",
-            "Picture": ,
+            "Picture": "",
             "Injured": false,
             "Suspended": false,
             "Category": "B"
@@ -162,19 +150,7 @@
             "DoB": "12/06/1995",
             "Position": "DF",
             "Country": "England",
-            "Picture": ,
-            "Injured": false,
-            "Suspended": false,
-            "Category": "A"
-        },
-        {
-            "First name": "David",
-            "Surname": "De Gea",
-            "Squad number": 1,
-            "DoB": "07/11/1990",
-            "Position": "GK",
-            "Country": "Spain",
-            "Picture": ,
+            "Picture": "",
             "Injured": false,
             "Suspended": false,
             "Category": "A"
@@ -186,7 +162,7 @@
             "DoB": "02/01/1998",
             "Position": "DF",
             "Country": "Netherlands",
-            "Picture": ,
+            "Picture": "",
             "Injured": false,
             "Suspended": false,
             "Category": "C"
@@ -198,7 +174,7 @@
             "DoB": "04/08/1985",
             "Position": "DF",
             "Country": "Ecuador",
-            "Picture": ,
+            "Picture": "",
             "Injured": false,
             "Suspended": false,
             "Category": "A"
@@ -210,7 +186,7 @@
             "DoB": "02/12/1989",
             "Position": "DF",
             "Country": "Italy",
-            "Picture": ,
+            "Picture": "",
             "Injured": false,
             "Suspended": false,
             "Category": "B"
@@ -222,7 +198,7 @@
             "DoB": "14/11/1997",
             "Position": "DF",
             "Country": "England",
-            "Picture": ,
+            "Picture": "",
             "Injured": false,
             "Suspended": false,
             "Category": "C"
@@ -234,7 +210,7 @@
             "DoB": "15/03/1993",
             "Position": "MF",
             "Country": "France",
-            "Picture": ,
+            "Picture": "",
             "Injured": false,
             "Suspended": false,
             "Category": "A"
@@ -246,7 +222,7 @@
             "DoB": "28/04/1988",
             "Position": "MF",
             "Country": "Spain",
-            "Picture": ,
+            "Picture": "",
             "Injured": false,
             "Suspended": false,
             "Category": "A"
@@ -258,7 +234,7 @@
             "DoB": "15/12/1992",
             "Position": "MF",
             "Country": "England",
-            "Picture": ,
+            "Picture": "",
             "Injured": false,
             "Suspended": false,
             "Category": "A"
@@ -270,7 +246,7 @@
             "DoB": "01/01/1996",
             "Position": "MF",
             "Country": "Brazil",
-            "Picture": ,
+            "Picture": "",
             "Injured": false,
             "Suspended": false,
             "Category": "B"
@@ -282,7 +258,7 @@
             "DoB": "05/03/1993",
             "Position": "MF",
             "Country": "Brazil",
-            "Picture": ,
+            "Picture": "",
             "Injured": false,
             "Suspended": false,
             "Category": "A"
@@ -294,7 +270,7 @@
             "DoB": "14/08/1989",
             "Position": "MF",
             "Country": "Spain",
-            "Picture": ,
+            "Picture": "",
             "Injured": false,
             "Suspended": false,
             "Category": "A"
@@ -306,7 +282,7 @@
             "DoB": "01/08/1988",
             "Position": "MF",
             "Country": "Serbia",
-            "Picture": ,
+            "Picture": "",
             "Injured": false,
             "Suspended": false,
             "Category": "A"
@@ -318,7 +294,7 @@
             "DoB": "08/12/1996",
             "Position": "MF",
             "Country": "Scotland",
-            "Picture": ,
+            "Picture": "",
             "Injured": false,
             "Suspended": false,
             "Category": "B"
@@ -330,7 +306,7 @@
             "DoB": "1988",
             "Position": "FW",
             "Country": "Chile",
-            "Picture": ,
+            "Picture": "",
             "Injured": false,
             "Suspended": false,
             "Category": "B"
@@ -342,7 +318,7 @@
             "DoB": "13/05/1993",
             "Position": "FW",
             "Country": "Belgium",
-            "Picture": ,
+            "Picture": "",
             "Injured": false,
             "Suspended": false,
             "Category": "A"
@@ -354,7 +330,7 @@
             "DoB": "31/10/1997",
             "Position": "FW",
             "Country": "England",
-            "Picture": ,
+            "Picture": "",
             "Injured": false,
             "Suspended": false,
             "Category": "A"
@@ -366,7 +342,7 @@
             "DoB": "05/12/1995",
             "Position": "FW",
             "Country": "France",
-            "Picture": ,
+            "Picture": "",
             "Injured": false,
             "Suspended": false,
             "Category": "A"
