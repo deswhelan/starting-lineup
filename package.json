@@ -6,7 +6,7 @@
   "scripts": {
     "test": "jest --watchAll --noStackTrace --colors",
     "start": "node index.js",
-    "dev": "nodemon --watchAll --noStackTrace --colors index.js "
+    "dev": "nodemon index.js --watchAll"
   },
   "repository": {
     "type": "git",
