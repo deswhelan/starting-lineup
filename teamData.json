@@ -1,5 +1,5 @@
 {
-    "manchester united": [
+    "manchesterunited": [
         {
             "first name": "Ole Gunnar",
             "surname": "Solskjaer",
@@ -7,7 +7,7 @@
             "dob": "26/11/1990",
             "position": "Manager",
             "country": "Norway",
-            "picture": "/public/images/solskjaer.png",
+            "picture": "/images/solskjaer.jpg",
             "injured": false,
             "suspended": false,
             "category": "A"
@@ -18,7 +18,7 @@
             "dob": "07/11/1990",
             "position": "GK",
             "country": "Spain",
-            "picture": "/public/images/degea.png",
+            "picture": "/images/degea.png",
             "injured": false,
             "suspended": false,
             "category": "A"
@@ -30,7 +30,7 @@
             "dob": "27/01/1983",
             "position": "GK",
             "country": "England",
-            "picture": "/public/images/grant.png",
+            "picture": "/images/grant.png",
             "injured": false,
             "suspended": false,
             "category": "C"
@@ -42,7 +42,7 @@
             "dob": "22/01/1987",
             "position": "GK",
             "country": "Argentina",
-            "picture": "/public/images/romero.png",
+            "picture": "/images/romero.png",
             "injured": false,
             "suspended": false,
             "category": "B"
@@ -54,7 +54,7 @@
             "dob": "28/06/1996",
             "position": "GK",
             "country": "Portugal",
-            "picture": "/public/images/pereira.png",
+            "picture": "/images/pereira.png",
             "injured": false,
             "suspended": false,
             "category": "C"
@@ -66,7 +66,7 @@
             "dob": "17/07/1994",
             "position": "DF",
             "country": "Sweden",
-            "picture": "/public/images/lindelof.png",
+            "picture": "/images/lindelof.png",
             "injured": false,
             "suspended": false,
             "category": "A"
@@ -78,7 +78,7 @@
             "dob": "08/06/1994",
             "position": "DF",
             "country": "Ivory Coast",
-            "picture": "/public/images/bailly.png",
+            "picture": "/images/bailly.png",
             "injured": false,
             "suspended": false,
             "category": "B"
@@ -90,7 +90,7 @@
             "dob": "21/02/1992",
             "position": "DF",
             "country": "England",
-            "picture": "/public/images/jones.png",
+            "picture": "/images/jones.png",
             "injured": false,
             "suspended": false,
             "category": "A"
@@ -102,7 +102,7 @@
             "dob": "22/11/1989",
             "position": "DF",
             "country": "England",
-            "picture": "/public/images/smalling.png",
+            "picture": "/images/smalling.png",
             "injured": false,
             "suspended": false,
             "category": "A"
@@ -114,7 +114,7 @@
             "dob": "20/03/1990",
             "position": "DF",
             "country": "Argentina",
-            "picture": "/public/images/rojo.png",
+            "picture": "/images/rojo.png",
             "injured": false,
             "suspended": false,
             "category": "B"
@@ -126,7 +126,7 @@
             "dob": "09/07/1985",
             "position": "DF",
             "country": "England",
-            "picture": "/public/images/young.png",
+            "picture": "/images/young.png",
             "injured": false,
             "suspended": false,
             "category": "A"
@@ -138,7 +138,7 @@
             "dob": "19/03/1999",
             "position": "DF",
             "country": "Portugal",
-            "picture": "/public/images/dalot.png",
+            "picture": "/images/dalot.png",
             "injured": false,
             "suspended": false,
             "category": "B"
@@ -150,7 +150,7 @@
             "dob": "12/06/1995",
             "position": "DF",
             "country": "England",
-            "picture": "/public/images/shaw.png",
+            "picture": "/images/shaw.png",
             "injured": false,
             "suspended": false,
             "category": "A"
@@ -162,7 +162,7 @@
             "dob": "02/01/1998",
             "position": "DF",
             "country": "Netherlands",
-            "picture": "/public/images/fosuhmensah.jpg",
+            "picture": "/images/fosuhmensah.jpg",
             "injured": false,
             "suspended": false,
             "category": "C"
@@ -174,7 +174,7 @@
             "dob": "04/08/1985",
             "position": "DF",
             "country": "Ecuador",
-            "picture": "/public/images/valencia.png",
+            "picture": "/images/valencia.png",
             "injured": false,
             "suspended": false,
             "category": "A"
@@ -186,7 +186,7 @@
             "dob": "02/12/1989",
             "position": "DF",
             "country": "Italy",
-            "picture": "/public/images/darmian.png",
+            "picture": "/images/darmian.png",
             "injured": false,
             "suspended": false,
             "category": "B"
@@ -198,7 +198,7 @@
             "dob": "14/11/1997",
             "position": "DF",
             "country": "England",
-            "picture": "/public/images/tuanzebe.png",
+            "picture": "/images/tuanzebe.png",
             "injured": false,
             "suspended": false,
             "category": "C"
@@ -210,7 +210,7 @@
             "dob": "15/03/1993",
             "position": "MF",
             "country": "France",
-            "picture": "/public/images/pogba.png",
+            "picture": "/images/pogba.png",
             "injured": false,
             "suspended": false,
             "category": "A"
@@ -222,7 +222,7 @@
             "dob": "28/04/1988",
             "position": "MF",
             "country": "Spain",
-            "picture": "/public/images/mata.png",
+            "picture": "/images/mata.png",
             "injured": false,
             "suspended": false,
             "category": "A"
@@ -234,7 +234,7 @@
             "dob": "15/12/1992",
             "position": "MF",
             "country": "England",
-            "picture": "/public/images/lingard.png",
+            "picture": "/images/lingard.png",
             "injured": false,
             "suspended": false,
             "category": "A"
@@ -246,7 +246,7 @@
             "dob": "01/01/1996",
             "position": "MF",
             "country": "Brazil",
-            "picture": "/public/images/pereira.jpg",
+            "picture": "/images/pereira.jpg",
             "injured": false,
             "suspended": false,
             "category": "B"
@@ -258,7 +258,7 @@
             "dob": "05/03/1993",
             "position": "MF",
             "country": "Brazil",
-            "picture": "/public/images/degea.png",
+            "picture": "/images/degea.png",
             "injured": false,
             "suspended": false,
             "category": "A"
@@ -270,7 +270,7 @@
             "dob": "14/08/1989",
             "position": "MF",
             "country": "Spain",
-            "picture": "/public/images/fred.jpg",
+            "picture": "/images/fred.jpg",
             "injured": false,
             "suspended": false,
             "category": "A"
@@ -282,7 +282,7 @@
             "dob": "01/08/1988",
             "position": "MF",
             "country": "Serbia",
-            "picture": "/public/images/matic.png",
+            "picture": "/images/matic.png",
             "injured": false,
             "suspended": false,
             "category": "A"
@@ -294,7 +294,7 @@
             "dob": "08/12/1996",
             "position": "MF",
             "country": "Scotland",
-            "picture": "/public/images/mctominay.png",
+            "picture": "/images/mctominay.png",
             "injured": false,
             "suspended": false,
             "category": "B"
@@ -306,7 +306,7 @@
             "dob": "1988",
             "position": "FW",
             "country": "Chile",
-            "picture": "/public/images/sanchez.png",
+            "picture": "/images/sanchez.png",
             "injured": false,
             "suspended": false,
             "category": "B"
@@ -318,7 +318,7 @@
             "dob": "13/05/1993",
             "position": "FW",
             "country": "Belgium",
-            "picture": "/public/images/lukaku.png",
+            "picture": "/images/lukaku.png",
             "injured": false,
             "suspended": false,
             "category": "A"
@@ -330,7 +330,7 @@
             "dob": "31/10/1997",
             "position": "FW",
             "country": "England",
-            "picture": "/public/images/rashford.png",
+            "picture": "/images/rashford.png",
             "injured": false,
             "suspended": false,
             "category": "A"
@@ -342,7 +342,7 @@
             "dob": "05/12/1995",
             "position": "FW",
             "country": "France",
-            "picture": "/public/images/martial.png",
+            "picture": "/images/martial.png",
             "injured": false,
             "suspended": false,
             "category": "A"
