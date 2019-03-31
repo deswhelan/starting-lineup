@@ -22,11 +22,15 @@ function randomizePlayers(players) {
         players[currentIndex] = players[randomIndex];
         players[randomIndex] = temporaryValue;
     }
-    console.log("Randomized players: ", players)
     return players
+}
+
+function selectPlayersByPosition (players, numberOfPlayersWanted) {
+    return players.slice(0, numberOfPlayersWanted)
 }
 
 module.exports = {
     getPlayersByPosition: getPlayersByPosition,
-    randomizePlayers: randomizePlayers
+    randomizePlayers: randomizePlayers,
+    selectPlayersByPosition: selectPlayersByPosition
 }
