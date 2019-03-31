@@ -2,6 +2,7 @@ const express = require('express')
 const router = express.Router()
 const teamData = require('./teamData.json')
 const fs = require('fs')
+const lineupSelector = require('./lineupSelector')
 
 router.get('/', function (req, res) {
     res.redirect('/squad')

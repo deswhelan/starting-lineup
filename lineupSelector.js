@@ -1,16 +1,12 @@
 const team = require('./teamData.json')["manchesterunited"]
 const fs = require('fs')
 
-function getTheManager (team) {
-    return team.find(person => {
-        return person["position"] == "Manager";
+function getPlayersByPosition (team, position) {
+    return team.filter(player => {
+        return player["position"] == position
     })
 }
 
-
-
-
-
 module.exports = {
-    getTheManager: getTheManager
+    getPlayersByPosition: getPlayersByPosition
 }
