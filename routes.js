@@ -17,7 +17,12 @@ router.get('/squad', function (req, res) {
 })
 
 router.get('/starting-line-up', function (req, res) {
-    res.send("here are 11 players")
+    fs.readFile('./teamData.json', 'utf8', function (err, data) {
+        if (err) {
+            return res.status(500).send('An Error Occured!')
+        }
+        res.render('players/lineup', teamData)
+    })
 })
 
 module.exports = router;
