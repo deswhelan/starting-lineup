@@ -13,7 +13,7 @@ router.get('/squad', function (req, res) {
         if (err) {
             return res.status(500).send('An Error Occured!')
         }
-        res.render('players/squad', teamData)
+        res.render('players/squad', squads)
     })
 })
 
