@@ -1,8 +1,5 @@
-const team = require('./teamData.json')["manchesterunited"]
-const fs = require('fs')
-
-function getPlayersByPosition (team, position) {
-    return team.filter(player => {
+function getPlayersByPosition (squad, position) {
+    return squad.filter(player => {
         return player["position"] == position
     })
 }
@@ -29,8 +26,19 @@ function selectPlayersByPosition (players, numberOfPlayersWanted) {
     return players.slice(0, numberOfPlayersWanted)
 }
 
+function pickAStartingEleven (squad){
+    return {
+        Manager: getPlayersByPosition(squad, "Manager"),
+        Goalkeeper: selectPlayersByPosition(randomizePlayers(getPlayersByPosition(squad, "GK")) , 1),
+        Defenders: selectPlayersByPosition(randomizePlayers(getPlayersByPosition(squad, "DF")) , 4),
+        Midfielders: selectPlayersByPosition(randomizePlayers(getPlayersByPosition(squad, "MF")) , 3),
+        Forwards: selectPlayersByPosition(randomizePlayers(getPlayersByPosition(squad, "FW")) , 3)
+    }
+}
+
 module.exports = {
     getPlayersByPosition: getPlayersByPosition,
     randomizePlayers: randomizePlayers,
-    selectPlayersByPosition: selectPlayersByPosition
+    selectPlayersByPosition: selectPlayersByPosition,
+    pickAStartingEleven: pickAStartingEleven
 }
