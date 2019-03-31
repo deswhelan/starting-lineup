@@ -37,8 +37,5 @@ function pickAStartingEleven (squad){
 }
 
 module.exports = {
-    getPlayersByPosition: getPlayersByPosition,
-    randomizePlayers: randomizePlayers,
-    selectPlayersByPosition: selectPlayersByPosition,
     pickAStartingEleven: pickAStartingEleven
 }
