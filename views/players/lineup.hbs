@@ -1,32 +1,50 @@
 <div class="container">
+    
+    <div class="pitch-area" id="managers">
     {{#each Manager}}
-    <div class="squad-list">
+    <div class="player">
         <a href=""><img class="img-circle" src="{{picture}}" alt="{{surname}}"></a>
         <p class="img-text">{{surname}}</p>
     </div>
     {{/each}}
+    </div>
+    
+
+    <div class="pitch-area" id="goalkeepers">
     {{#each Goalkeeper}}
-    <div class="squad-list">
+    <div class="player">
         <a href=""><img class="img-circle" src="{{picture}}" alt="{{surname}}"></a>
         <p class="img-text">{{surname}}</p>
     </div>
     {{/each}}
+    </div>
+
+    <div class="pitch-area" id="defenders">
     {{#each Defenders}}
-    <div class="squad-list">
+    <div class="player">
         <a href=""><img class="img-circle" src="{{picture}}" alt="{{surname}}"></a>
         <p class="img-text">{{surname}}</p>
     </div>
     {{/each}}
+    </div>
+
+    <div class="pitch-area" id="midfielders">
     {{#each Midfielders}}
-    <div class="squad-list">
+    <div class="player">
         <a href=""><img class="img-circle" src="{{picture}}" alt="{{surname}}"></a>
         <p class="img-text">{{surname}}</p>
     </div>
     {{/each}}   
+    </div>
+
+    <div class="pitch-area" id="forwards">
     {{#each Forwards}}
-    <div class="squad-list">
+    <div class="player">
         <a href=""><img class="img-circle" src="{{picture}}" alt="{{surname}}"></a>
         <p class="img-text">{{surname}}</p>
     </div>
     {{/each}}
+    </div>
+
+
 </div>
