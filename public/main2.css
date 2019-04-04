@@ -18,6 +18,10 @@ body {
     align-items: center;
 }
   
+ul {
+    list-style: none;
+    padding: 0
+}
 
 .pitch-area {
     margin: auto;
@@ -43,7 +47,6 @@ div h2 {
 #managers .img-circle {
     border-color: goldenrod
 }
-
 
 .app {
 display: flex;
@@ -72,6 +75,34 @@ height: 100px;
 border-color: white;
 border-width: 0.6em;
 border-style: double;
+}
+
+#player-profile .img-circle {
+    width: 300px;
+    height: 300px;
+    border-width: 0.6em;
+}
+
+#player-profile.player {
+    display: flex;
+    flex-direction: row;
+    margin: 0.75em;
+    float: left;
+    align-items: center;
+    text-align: center;
+}
+
+#player-profile ul {
+    display: inline-block;
+    margin: 0.75em;
+    text-align: left;
+    float: right;
+}
+
+.profile-info {
+    text-decoration: underline;
+    font-style: italic;
+    font-size: 0.8em;
 }
 
 .img-text {

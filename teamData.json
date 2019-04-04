@@ -1,9 +1,9 @@
 {
     "manchesterunited": [
         {
-            "first name": "Ole Gunnar",
+            "firstName": "Ole Gunnar",
             "surname": "Solskjaer",
-            "squad number": 1,
+            "squadNumber": "1",
             "dob": "26/11/1990",
             "position": "Manager",
             "country": "Norway",
@@ -12,9 +12,9 @@
             "suspended": false,
             "category": "A"
         },{
-            "first name": "David",
+            "firstName": "David",
             "surname": "De Gea",
-            "squad number": 1,
+            "squadNumber": "1",
             "dob": "07/11/1990",
             "position": "GK",
             "country": "Spain",
@@ -24,9 +24,9 @@
             "category": "A"
         },
         {
-            "first name": "Lee",
+            "firstName": "Lee",
             "surname": "Grant",
-            "squad number": 13,
+            "squadNumber": "13",
             "dob": "27/01/1983",
             "position": "GK",
             "country": "England",
@@ -36,9 +36,9 @@
             "category": "C"
         },
         {
-            "first name": "Sergio",
+            "firstName": "Sergio",
             "surname": "Romero",
-            "squad number": 22,
+            "squadNumber": "22",
             "dob": "22/01/1987",
             "position": "GK",
             "country": "Argentina",
@@ -48,9 +48,9 @@
             "category": "B"
         },
         {
-            "first name": "Joel",
+            "firstName": "Joel",
             "surname": "Pereira",
-            "squad number": 40,
+            "squadNumber": "40",
             "dob": "28/06/1996",
             "position": "GK",
             "country": "Portugal",
@@ -60,9 +60,9 @@
             "category": "C"
         },
         {
-            "first name": "Victor",
+            "firstName": "Victor",
             "surname": "Lindelof",
-            "squad number": 2,
+            "squadNumber": "2",
             "dob": "17/07/1994",
             "position": "DF",
             "country": "Sweden",
@@ -72,9 +72,9 @@
             "category": "A"
         },
         {
-            "first name": "Eric",
+            "firstName": "Eric",
             "surname": "Bailly",
-            "squad number": 3,
+            "squadNumber": "3",
             "dob": "08/06/1994",
             "position": "DF",
             "country": "Ivory Coast",
@@ -84,9 +84,9 @@
             "category": "B"
         },
         {
-            "first name": "Phil",
+            "firstName": "Phil",
             "surname": "Jones",
-            "squad number": 4,
+            "squadNumber": "4",
             "dob": "21/02/1992",
             "position": "DF",
             "country": "England",
@@ -96,9 +96,9 @@
             "category": "A"
         },
         {
-            "first name": "Chris",
+            "firstName": "Chris",
             "surname": "Smalling",
-            "squad number": 12,
+            "squadNumber": "12",
             "dob": "22/11/1989",
             "position": "DF",
             "country": "England",
@@ -108,9 +108,9 @@
             "category": "A"
         },
         {
-            "first name": "Marcos",
+            "firstName": "Marcos",
             "surname": "Rojo",
-            "squad number": 16,
+            "squadNumber": "16",
             "dob": "20/03/1990",
             "position": "DF",
             "country": "Argentina",
@@ -120,9 +120,9 @@
             "category": "B"
         },
         {
-            "first name": "Ashley",
+            "firstName": "Ashley",
             "surname": "Young",
-            "squad number": 18,
+            "squadNumber": "18",
             "dob": "09/07/1985",
             "position": "DF",
             "country": "England",
@@ -132,9 +132,9 @@
             "category": "A"
         },
         {
-            "first name": "Diogo",
+            "firstName": "Diogo",
             "surname": "Dalot",
-            "squad number": 20,
+            "squadNumber": "20",
             "dob": "19/03/1999",
             "position": "DF",
             "country": "Portugal",
@@ -144,9 +144,9 @@
             "category": "B"
         },
         {
-            "first name": "Luke",
+            "firstName": "Luke",
             "surname": "Shaw",
-            "squad number": 23,
+            "squadNumber": "23",
             "dob": "12/06/1995",
             "position": "DF",
             "country": "England",
@@ -156,9 +156,9 @@
             "category": "A"
         },
         {
-            "first name": "Tim",
+            "firstName": "Tim",
             "surname": "Fosuh-Mensah",
-            "squad number": 24,
+            "squadNumber": "24",
             "dob": "02/01/1998",
             "position": "DF",
             "country": "Netherlands",
@@ -168,9 +168,9 @@
             "category": "C"
         },
         {
-            "first name": "Antonio",
+            "firstName": "Antonio",
             "surname": "Valencia",
-            "squad number": 25,
+            "squadNumber": "25",
             "dob": "04/08/1985",
             "position": "DF",
             "country": "Ecuador",
@@ -180,9 +180,9 @@
             "category": "A"
         },
         {
-            "first name": "Matteo",
+            "firstName": "Matteo",
             "surname": "Darmian",
-            "squad number": 36,
+            "squadNumber": "36",
             "dob": "02/12/1989",
             "position": "DF",
             "country": "Italy",
@@ -192,9 +192,9 @@
             "category": "B"
         },
         {
-            "first name": "Axel",
+            "firstName": "Axel",
             "surname": "Tuanzebe",
-            "squad number": 38,
+            "squadNumber": "38",
             "dob": "14/11/1997",
             "position": "DF",
             "country": "England",
@@ -204,9 +204,9 @@
             "category": "C"
         },
         {
-            "first name": "Paul",
+            "firstName": "Paul",
             "surname": "Pogba",
-            "squad number": 6,
+            "squadNumber": "6",
             "dob": "15/03/1993",
             "position": "MF",
             "country": "France",
@@ -216,9 +216,9 @@
             "category": "A"
         },
         {
-            "first name": "Juan",
+            "firstName": "Juan",
             "surname": "Mata",
-            "squad number": 8,
+            "squadNumber": "8",
             "dob": "28/04/1988",
             "position": "MF",
             "country": "Spain",
@@ -228,9 +228,9 @@
             "category": "A"
         },
         {
-            "first name": "Jesse",
+            "firstName": "Jesse",
             "surname": "Lingard",
-            "squad number": 14,
+            "squadNumber": "14",
             "dob": "15/12/1992",
             "position": "MF",
             "country": "England",
@@ -240,9 +240,9 @@
             "category": "A"
         },
         {
-            "first name": "Andreas",
+            "firstName": "Andreas",
             "surname": "Pereira",
-            "squad number": 15,
+            "squadNumber": "15",
             "dob": "01/01/1996",
             "position": "MF",
             "country": "Brazil",
@@ -252,9 +252,9 @@
             "category": "B"
         },
         {
-            "first name": "",
+            "firstName": "",
             "surname": "Fred",
-            "squad number": 17,
+            "squadNumber": "17",
             "dob": "05/03/1993",
             "position": "MF",
             "country": "Brazil",
@@ -264,9 +264,9 @@
             "category": "A"
         },
         {
-            "first name": "Ander",
+            "firstName": "Ander",
             "surname": "Herrera",
-            "squad number": 21,
+            "squadNumber": "21",
             "dob": "14/08/1989",
             "position": "MF",
             "country": "Spain",
@@ -276,9 +276,9 @@
             "category": "A"
         },
         {
-            "first name": "Nemanja",
+            "firstName": "Nemanja",
             "surname": "Matic",
-            "squad number": 31,
+            "squadNumber": "31",
             "dob": "01/08/1988",
             "position": "MF",
             "country": "Serbia",
@@ -288,9 +288,9 @@
             "category": "A"
         },
         {
-            "first name": "Scott",
+            "firstName": "Scott",
             "surname": "McTominay",
-            "squad number": 39,
+            "squadNumber": "39",
             "dob": "08/12/1996",
             "position": "MF",
             "country": "Scotland",
@@ -300,9 +300,9 @@
             "category": "B"
         },
         {
-            "first name": "Alexis",
+            "firstName": "Alexis",
             "surname": "Sanchez",
-            "squad number": 7,
+            "squadNumber": "7",
             "dob": "1988",
             "position": "FW",
             "country": "Chile",
@@ -312,9 +312,9 @@
             "category": "B"
         },
         {
-            "first name": "Romelu",
+            "firstName": "Romelu",
             "surname": "Lukaku",
-            "squad number": 9,
+            "squadNumber": "9",
             "dob": "13/05/1993",
             "position": "FW",
             "country": "Belgium",
@@ -324,9 +324,9 @@
             "category": "A"
         },
         {
-            "first name": "Marcus",
+            "firstName": "Marcus",
             "surname": "Rashford",
-            "squad number": 10,
+            "squadNumber": "10",
             "dob": "31/10/1997",
             "position": "FW",
             "country": "England",
@@ -336,9 +336,9 @@
             "category": "A"
         },
         {
-            "first name": "Anthony",
+            "firstName": "Anthony",
             "surname": "Martial",
-            "squad number": 11,
+            "squadNumber": "11",
             "dob": "05/12/1995",
             "position": "FW",
             "country": "France",

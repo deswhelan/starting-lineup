@@ -26,4 +26,14 @@ router.get('/starting-line-up', function (req, res) {
     })
 })
 
+router.get('/profile/:player', function (req, res) {
+    let playerName = req.params.player
+
+    const playerToDisplay = squads["manchesterunited"].find( player => {
+        return player["surname"] == playerName   
+    })
+
+    res.render('players/profile', playerToDisplay)
+})
+
 module.exports = router;
