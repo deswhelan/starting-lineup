@@ -2,10 +2,12 @@ body {
     background: url("/images/pitch.jpg");
     background-size: 100%;
     font-family: 'Bungee Inline', cursive;
+    border-color: white;
+    border-style: solid;
+    border-width: 0.6em
 }
 
 .container {
-    /* display: flex; */
     flex-wrap: wrap;
     justify-content: center;
     color: white;
@@ -14,7 +16,6 @@ body {
     flex-direction: row;
     text-align:center;
     align-items: center;
-    margin: auto
 }
   
 
@@ -24,57 +25,99 @@ body {
     align-items: center;
     font-size: 0.5em
   }
-  
-  .app {
-    display: flex;
-    flex-direction: column;
-  }
-  
-  .player {
-    display: inline-block;
-    flex-direction: column;
-    align-items: center;
-    margin: 50px;
-  }
-  
-  .dog {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    margin: 50px;
-  }
-  
-  .img-circle {
-    border-radius: 100%;
-    object-fit: cover;
-    width: 100px;
-    height: 100px;
-    border-color: white;
-    border-width: 0.6em;
-    border-style: double;
-  }
-  
-  .img-text {
-    color: white;
-    font-size: 1em;
+
+#managers {
+    float: left;
+    margin: 1em;
+}
+
+#managers .img-text {
+    color: goldenrod
+}
+
+div h2 {
     margin: 0;
-  }
-  
-  .title {
-    text-align: center;
-    font-size: 3em;
-    color: white;
-    margin: 0
-  }
-  
-  .nav {
-    text-align: center;
-    color: black;
-  }
-  
-  .form {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    font-family: 'Roboto', sans-serif;
-  }
+    color: goldenrod
+}
+
+#managers .img-circle {
+    border-color: goldenrod
+}
+
+
+.app {
+display: flex;
+flex-direction: column;
+}
+
+.player {
+display: inline-block;
+flex-direction: column;
+align-items: center;
+margin: 0.75em
+}
+
+.dog {
+display: flex;
+flex-direction: column;
+align-items: center;
+margin: 50px;
+}
+
+.img-circle {
+border-radius: 100%;
+object-fit: cover;
+width: 100px;
+height: 100px;
+border-color: white;
+border-width: 0.6em;
+border-style: double;
+}
+
+.img-text {
+color: white;
+font-size: 1em;
+margin: 0;
+}
+
+.title {
+text-align: center;
+font-size: 3em;
+color: white;
+margin: 0;
+height: auto;
+text-decoration: none
+}
+
+.nav {
+text-align: center;
+color: black;
+}
+
+.form {
+display: flex;
+flex-direction: column;
+align-items: center;
+font-family: 'Roboto', sans-serif;
+}
+
+a:link
+{
+   color:white;
+   text-decoration: none;
+}
+a:visited
+{
+   color:white;
+   text-decoration: none;
+}
+a:hover
+{
+   color:white;
+   text-decoration: none;
+}
+a:active
+{
+   color:white;
+   text-decoration: none;
+}

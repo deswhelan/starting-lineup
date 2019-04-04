@@ -1,15 +1,5 @@
 <div class="container">
     
-    <div class="pitch-area" id="managers">
-    {{#each Manager}}
-    <div class="player">
-        <a href=""><img class="img-circle" src="{{picture}}" alt="{{surname}}"></a>
-        <p class="img-text">{{surname}}</p>
-    </div>
-    {{/each}}
-    </div>
-    
-
     <div class="pitch-area" id="goalkeepers">
     {{#each Goalkeeper}}
     <div class="player">
@@ -46,5 +36,14 @@
     {{/each}}
     </div>
 
+    <div class="pitch-area" id="managers">
+        <h2>Manager:</h2>
+    {{#each Manager}}
+    <div class="player">
+        <a href=""><img class="img-circle" src="{{picture}}" alt="{{surname}}"></a>
+        <p class="img-text">{{surname}}</p>
+    </div>
+    {{/each}}
+    </div>
 
 </div>

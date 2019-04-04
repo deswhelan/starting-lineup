@@ -32,6 +32,10 @@ body {
   margin: 50px;
 }
 
+#manager {
+  background-color: black
+}
+
 .dog {
   display: flex;
   flex-direction: column;
