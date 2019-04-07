@@ -31,8 +31,8 @@ function pickAStartingEleven (squad){
         Manager: getPlayersByPosition(squad, "Manager"),
         Goalkeeper: selectPlayersByPosition(randomizePlayers(getPlayersByPosition(squad, "GK")) , 1),
         Defenders: selectPlayersByPosition(randomizePlayers(getPlayersByPosition(squad, "DF")) , 4),
-        Midfielders: selectPlayersByPosition(randomizePlayers(getPlayersByPosition(squad, "MF")) , 3),
-        Forwards: selectPlayersByPosition(randomizePlayers(getPlayersByPosition(squad, "FW")) , 3)
+        Midfielders: selectPlayersByPosition(randomizePlayers(getPlayersByPosition(squad, "MF")) , 4),
+        Forwards: selectPlayersByPosition(randomizePlayers(getPlayersByPosition(squad, "FW")) , 2)
     }
 }
 
