@@ -27,13 +27,18 @@
     {{/each}}   
     </div>
 
+   
     <div class="pitch-area" id="forwards">
-    {{#each Forwards}}
-    <div class="player">
-        <a class = "player-link" href="/profile/{{surname}}"><img class="img-circle" src="{{picture}}" alt="{{surname}}"></a>
-        <p class="img-text">{{surname}}</p>
-    </div>
-    {{/each}}
+        {{#each Forwards}}
+        <div class="player">
+            <a class = "player-link" href="/profile/{{surname}}"><img class="img-circle" src="{{picture}}" alt="{{surname}}"></a>
+            <p class="img-text">{{surname}}</p>
+        </div>
+        {{/each}}
+        <div class="corners">
+            <div class="bottom-left-corner"></div>
+            <div class="bottom-right-corner"></div>
+        </div>
     </div>
 
     <div class="pitch-area" id="managers">

@@ -4,7 +4,67 @@ body {
     font-family: 'Bungee Inline', cursive;
     border-color: white;
     border-style: solid;
-    border-width: 0.6em
+    border-width: 0.6em;
+}
+
+.corners {
+    display: flex;
+    justify-content: space-between;
+}
+
+.top-left-corner{
+    width: 50px;
+    height: 50px;
+    background: none;
+    border-color: white;
+    border-style: solid;
+    border-width: 0.6em;
+    border-radius: 0 0 50px 0;
+    -moz-border-radius: 0 0 50px 0;
+    -webkit-border-radius: 0 0 50px 0;
+    border-top: none;
+    border-left: none
+}
+
+.top-right-corner{
+    width: 50px;
+    height: 50px;
+    border-color: white;
+    border-style: solid;
+    border-width: 0.6em;
+    border-radius: 0 0 0 50px;
+    -moz-border-radius: 0 0 0 50px;
+    float: right;
+    border-top: none;
+    border-right: none
+}
+
+.bottom-left-corner{
+    width: 50px;
+    height: 50px;
+    border-radius: 0 50px 0 0;
+    -moz-border-radius: 0 50px 0 0;
+    -webkit-border-radius: 0 50px 0 0;
+    float: left;
+    border-color: white;
+    border-style: solid;
+    border-width: 0.6em;
+    border-bottom: none;
+    border-left: none
+}
+
+.bottom-right-corner{
+    width: 50px;
+    height: 50px;
+    border-radius: 50px 0 0 0;
+    -moz-border-radius: 50px 0 0 0;
+    -webkit-border-radius: 50px 0 0 0;
+    float: right;
+    border-color: white;
+    border-style: solid;
+    border-width: 0.6em;
+    border-bottom: none;
+    border-right: none
 }
 
 .container {
