@@ -9,7 +9,17 @@ router.get('/', function (req, res) {
         if (err) {
             return res.status(500).send('An Error Occured!')
         }
-        res.render('players/lineup', pickAStartingEleven(squads["manchesterunited"]))
+        res.render('players/lineup', pickAStartingEleven(squads["manchesterunited"], 4, 3, 3))
+    })
+})
+
+router.post('/', function (req, res) {
+    console.log(req.body)
+    fs.readFile('./teamData.json', 'utf8', function (err, data) {
+        if (err) {
+            return res.status(500).send('An Error Occured!')
+        }
+        res.render('players/lineup', pickAStartingEleven(squads["manchesterunited"], 4, 3, 3))
     })
 })
 

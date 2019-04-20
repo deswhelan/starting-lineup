@@ -26,13 +26,13 @@ function selectPlayersByPosition (players, numberOfPlayersWanted) {
     return players.slice(0, numberOfPlayersWanted)
 }
 
-function pickAStartingEleven (squad){
+function pickAStartingEleven (squad, def, mid, fw){
     return {
         Manager: getPlayersByPosition(squad, "Manager"),
         Goalkeeper: selectPlayersByPosition(randomizePlayers(getPlayersByPosition(squad, "GK")) , 1),
-        Defenders: selectPlayersByPosition(randomizePlayers(getPlayersByPosition(squad, "DF")) , 4),
-        Midfielders: selectPlayersByPosition(randomizePlayers(getPlayersByPosition(squad, "MF")) , 4),
-        Forwards: selectPlayersByPosition(randomizePlayers(getPlayersByPosition(squad, "FW")) , 2)
+        Defenders: selectPlayersByPosition(randomizePlayers(getPlayersByPosition(squad, "DF")) , def),
+        Midfielders: selectPlayersByPosition(randomizePlayers(getPlayersByPosition(squad, "MF")) , mid),
+        Forwards: selectPlayersByPosition(randomizePlayers(getPlayersByPosition(squad, "FW")) , fw)
     }
 }
 
