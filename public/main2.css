@@ -194,6 +194,20 @@ border-style: double;
     text-decoration: underline;
     font-style: italic;
     font-size: 0.8em;
+    animation-name: fadein; 
+    animation-delay: 1.2s;
+    animation-duration: 1.25s;
+    animation-fill-mode: both
+}
+
+.profile-info-container {
+    animation-name: fadein; 
+    animation-delay: 1.7s;
+    animation-duration: 1.25s;
+    animation-fill-mode: both;
+    text-align: left;
+    float: right;
+    margin: 100px
 }
 
 .img-text {
